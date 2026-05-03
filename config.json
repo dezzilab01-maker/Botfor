@@ -1,0 +1,4 @@
+module.exports = {
+    token: "MTQ5NTE3NzYxMDc3MzI3MDY0OA.GJdrcF._yoCrtIIQzjLhRDpWQrp1CIHFjM15p_WV6S4-o",
+    mongoURI: "mongodb://127.0.0.1:9693"
+}
